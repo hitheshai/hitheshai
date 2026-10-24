@@ -1,107 +1,123 @@
-<!-- Animated Header --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F766E,100:06B6D4&height=220&section=header&text=Hithesh%20Gowda&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Builder%20%7C%20Innovator&descSize=16&descAlignY=58" width="100%" alt="Hithesh Gowda animated header"/><a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+with+Python+%26+Generative+AI;Turning+Ideas+into+Real+Projects;Learning+Today.+Innovating+Tomorrow." alt="Typing animation"/>
-</a><br/><a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<!-- ═══════════════ HERO ═══════════════ --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F766E,100:06B6D4&height=230&section=header&text=HITHESH%20GOWDA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20AI%2FML%20ENGINEER%20%7C%20BUILDER%20%7C%20INNOVATOR&descSize=13&descAlignY=58" width="100%" alt="Hithesh Gowda AI Engineer banner"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+with+Python+%26+Generative+AI;Turning+Ideas+into+Real+Projects;Learn.+Build.+Innovate." alt="Animated introduction"/><br/><a href="https://github.com/hitheshai">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/hithesh-gowda-9367483a2">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-0891B2?style=for-the-badge&logo=python&logoColor=white" alt="AI and ML focus"/></div>---
+<a href="https://www.instagram.com/hithesh_gowda07_/">
+<img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a></div>---
 
-👨‍💻 About Me
+🧠 WHO AM I?
 
-Hi, I'm Hithesh Gowda — an aspiring AI/ML Engineer passionate about building technology that solves real-world problems.
+class HitheshGowda:
+    def __init__(self):
+        self.role = "Aspiring AI/ML Engineer"
+        self.education = "BE - Artificial Intelligence & ML"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Python Development"
+        ]
+        self.mindset = "Learn. Build. Innovate."
 
-I'm pursuing a BE in Artificial Intelligence and Machine Learning, exploring the intersection of intelligent systems, software development, and innovation.
+    def mission(self):
+        return "Turning ideas into intelligent solutions."
 
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
-- 🐍 Developing my programming skills with Python and Java
-- 🌾 Interested in AI-powered solutions for agriculture and society
-- 🚀 Building projects that transform ideas into practical solutions
-- 📚 Continuously learning, experimenting, and improving
-- 🤝 Open to collaboration, internships, and learning opportunities
+me = HitheshGowda()
 
-«My mission: Learn deeply, build meaningfully, and use technology to make a difference.»
+I'm an engineering student passionate about using technology to solve real-world problems. I enjoy exploring AI-powered tools, developing projects, and continuously expanding my technical skills.
+
+- 🤖 Exploring AI, Machine Learning and Generative AI
+- 💻 Developing programming skills with Python and Java
+- 🌾 Interested in technology that creates meaningful social impact
+- 🚀 Building projects and experimenting with new ideas
+- 🌱 Growing through continuous learning and practical development
+- 🤝 Open to collaborations and learning opportunities
 
 ---
 
-⚡ Tech Stack
+⚡ TECHNOLOGY & TOOLS
 
-<div align="center">Languages
+<div align="center"><img src="https://skillicons.dev/icons?i=python,java,git,github,vscode&theme=dark" alt="Python, Java and developer tools"/><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,sql&theme=dark" alt="Programming languages"/>Development Tools
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=googlegemini&logoColor=8B5CF6" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-0F172A?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google AI Studio"/></div>---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools"/>AI & Data
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=google&logoColor=8B5CF6" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Google%20AI%20Studio-111827?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google AI Studio"/></div>---
-
-🚀 Featured Projects
+🚀 PROJECTS & INNOVATION
 
 <table>
 <tr>
 <td width="50%" valign="top">🌾 Karnataka Krishi Mandi
 
-An agriculture technology concept focused on crop prices, market information, and helping farmers explore better selling opportunities.
+An agriculture technology concept focused on crop market prices, market information and better selling opportunities for farmers.
 
-Focus: AgriTech · AI · Market Information
+Focus: AgriTech · AI · Digital Solutions
 
 </td>
 <td width="50%" valign="top">🤝 Belegara Setu
 
-A digital agriculture initiative designed to improve access to useful market information and support fairer opportunities for farmers.
+A digital agriculture initiative designed to improve farmers' access to market information and fairer market opportunities.
 
-Focus: Social Impact · Digital Agriculture
+Focus: Social Impact · Agriculture
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">📊 Karnataka COVID-19 Data Analysis
+<td width="50%" valign="top">📊 Karnataka COVID-19 Analysis
 
-A Python data analysis project exploring district-wise COVID-19 statistics using structured data and visualizations.
+A Python project exploring district-wise COVID-19 data using structured datasets and data analysis.
 
 Focus: Python · CSV · Data Analysis
 
 </td>
-<td width="50%" valign="top">💡 Future AI Projects
+<td width="50%" valign="top">💡 Next-Gen AI Applications
 
-Exploring practical applications of Generative AI, intelligent assistants, and automation.
+Exploring ideas for intelligent applications, Generative AI tools and practical automation.
 
-Focus: Generative AI · Innovation · Automation
+Focus: Generative AI · Innovation
 
 </td>
 </tr>
-</table>Project descriptions reflect my interests and project concepts. Explore my repositories for available implementations and source code.
+</table>Explore my repositories for available source code, implementations and project progress.
 
 ---
 
-📈 GitHub Analytics
+📊 GITHUB ANALYTICS
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages"/><img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/></div>---
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=hitheshai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshai&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/><br/><br/>
 
-🎯 My Current Goals
+<img width="95%" src="https://streak-stats.demolab.com?user=hitheshai&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/></div>---
+
+🎯 CURRENT MISSION
 
 - [ ] Strengthen Python and Java fundamentals
 - [ ] Learn core Machine Learning algorithms
-- [ ] Build useful Generative AI applications
-- [ ] Improve Data Structures and Algorithms
-- [ ] Publish well-documented projects
-- [ ] Contribute to open-source projects
+- [ ] Build practical Generative AI applications
+- [ ] Improve problem-solving and DSA skills
+- [ ] Publish useful, well-documented projects
+- [ ] Contribute to open-source development
 
 ---
 
-🤝 Let's Connect
+🌐 CONNECT WITH ME
 
-<div align="center">I'm always interested in learning from developers, collaborating on projects, and exploring new ideas in AI.
+<div align="center">Let's learn, collaborate and build something meaningful.
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<a href="https://github.com/hitheshai">
+<img src="https://img.shields.io/badge/GitHub-hitheshai-181717?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub"/>
+</a><a href="https://www.linkedin.com/in/hithesh-gowda-9367483a2">
+<img src="https://img.shields.io/badge/LinkedIn-Hithesh%20Gowda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
+</a><a href="https://www.instagram.com/hithesh_gowda07_/">
+<img src="https://img.shields.io/badge/Instagram-hithesh__gowda07__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"/>
 </a><br/><br/>
 
-⭐ If you find something useful in my work, consider starring the repository!
+⭐ Thanks for visiting my profile!
 
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0F766E,100:020617&height=110&section=footer" width="100%" alt="Decorative footer"/>“The future belongs to those who build it.”
+“Dream big. Keep learning. Build what matters.”
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0F766E,100:020617&height=120&section=footer" width="100%" alt="Decorative footer"/></div>
+
