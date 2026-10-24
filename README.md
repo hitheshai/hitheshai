@@ -26,7 +26,7 @@
 
 - 🎓 **Branch:** Artificial Intelligence & Machine Learning (AI & ML)
 - 🏫 **College:** Bahubali College of Engineering, Shravanabelagola
-- 📍 **Location:** Karnataka, India
+- 📍 **Location:** Hassan,Karnataka, India
 - 🤖 Interested in Artificial Intelligence and app development
 - 🚀 Building projects using AI tools and modern technologies
 - 🌱 Continuously learning, building, and improving my skills
